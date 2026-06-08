@@ -1,0 +1,6 @@
+{
+  "name": "UK Enterprises",
+  "description": "Premium business dashboard and accounting suite for UK Enterprises and Phonifymobiles, featuring secure local ledger storage, live profit/loss auditing, PDF report generation, and Owner Control Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
